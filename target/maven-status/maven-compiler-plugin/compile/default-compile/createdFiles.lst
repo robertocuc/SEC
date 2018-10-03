@@ -1,0 +1,8 @@
+mx/unam/ciencias/is/modelo/dao/ProfesorDAO.class
+mx/unam/ciencias/is/modelo/Alumno.class
+mx/unam/ciencias/is/modelo/HibernateUtil.class
+mx/unam/ciencias/is/controlador/RegistrarProfesor.class
+mx/unam/ciencias/is/controlador/RegistrarAlumno.class
+mx/unam/ciencias/is/modelo/dao/AlumnoDAO.class
+mx/unam/ciencias/is/modelo/Profesor.class
+mx/unam/ciencias/is/controlador/ControladorIndex.class

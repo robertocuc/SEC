@@ -1,0 +1,8 @@
+/home/roberto/Documentos/IS_SEC/SEC/IS2_SoftTec/src/main/java/mx/unam/ciencias/is/modelo/Alumno.java
+/home/roberto/Documentos/IS_SEC/SEC/IS2_SoftTec/src/main/java/mx/unam/ciencias/is/controlador/RegistrarAlumno.java
+/home/roberto/Documentos/IS_SEC/SEC/IS2_SoftTec/src/main/java/mx/unam/ciencias/is/modelo/HibernateUtil.java
+/home/roberto/Documentos/IS_SEC/SEC/IS2_SoftTec/src/main/java/mx/unam/ciencias/is/modelo/dao/ProfesorDAO.java
+/home/roberto/Documentos/IS_SEC/SEC/IS2_SoftTec/src/main/java/mx/unam/ciencias/is/controlador/RegistrarProfesor.java
+/home/roberto/Documentos/IS_SEC/SEC/IS2_SoftTec/src/main/java/mx/unam/ciencias/is/controlador/ControladorIndex.java
+/home/roberto/Documentos/IS_SEC/SEC/IS2_SoftTec/src/main/java/mx/unam/ciencias/is/modelo/Profesor.java
+/home/roberto/Documentos/IS_SEC/SEC/IS2_SoftTec/src/main/java/mx/unam/ciencias/is/modelo/dao/AlumnoDAO.java
